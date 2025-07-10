@@ -39,3 +39,7 @@ yarn-error.log*
 # typescript
 *.tsbuildinfo
 next-env.d.ts
+
+# ignore Google site‑verification HTML
+/public/google371e80b75a983e8f.html
+/public/google*.html
