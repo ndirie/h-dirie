@@ -43,3 +43,9 @@ next-env.d.ts
 # ignore Google site‑verification HTML
 /public/google371e80b75a983e8f.html
 /public/google*.html
+
+# Ignore auto-generated sitemap and robots
+/public/sitemap*.xml
+/public/robots.txt
+/public/server-sitemap.xml
+/public/sitemaps/
